@@ -1,0 +1,10 @@
+.bloco2{
+    background-color: rgba(16, 90, 164, 0.46);
+    text-align: center;
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 250px;
+    margin: auto;
+    width: 500px;
+    box-shadow: 5px 5px 5px 5px #000000a7
+}
